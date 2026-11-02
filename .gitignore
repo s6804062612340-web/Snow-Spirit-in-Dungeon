@@ -1,6 +1,6 @@
-@"
-node_modules/
-dist/
-publish/
-README.md
-"@ | Set-Content -Encoding utf8 .gitignore
+# ไฟล์ที่ไม่ต้องขึ้น GitHub
+bin/
+out/
+*.class
+.vscode/
+submission/
