@@ -1,0 +1,6 @@
+@"
+node_modules/
+dist/
+publish/
+README.md
+"@ | Set-Content -Encoding utf8 .gitignore
